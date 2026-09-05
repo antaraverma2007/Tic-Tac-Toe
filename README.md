@@ -16,6 +16,13 @@ The game automatically detects a winner or declares a draw when all boxes are fi
 * 📱 Responsive layout using CSS viewport units
 * 🎨 Simple and clean UI
 
+  <img width="944" height="491" alt="Screenshot 2026-09-06 005524" src="https://github.com/user-attachments/assets/5d137893-8dcd-4c21-9615-30b6b37ce90a" />
+
+  <img width="949" height="494" alt="Screenshot 2026-09-06 005542" src="https://github.com/user-attachments/assets/04ba785a-8f54-4058-8d2e-a4d7eaf77e6b" />
+
+  <img width="937" height="496" alt="Screenshot 2026-09-06 005600" src="https://github.com/user-attachments/assets/e1504f01-5951-4fbf-9651-bcaf45c2f2de" />
+
+
 ## 🛠️ Technologies Used
 
 * **HTML5** – Structure of the game
